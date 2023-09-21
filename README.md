@@ -10,9 +10,13 @@ Scripts Includes
 
 
 Usage
-To use these scripts, you will need to have Python 3 installed on your machine. You will also need to install the AWS CLI and configure your AWS credentials. For more information, see the AWS CLI User Guide.
+To use these scripts, you will need to have Python 3 installed on your machine. You will also need to install the AWS CLI and configure your AWS credentials. For more information, see the AWS CLI User Guide at 
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html.
 
 Getting Started
 To get started, clone this repository to your local machine and navigate to the directory containing the scripts. Then, run the following command to install the required Python packages:
 - pip install boto3
 - pip install schedule
+
+Checkofficial pip documentation for more information on installing packages.
+https://pip.pypa.io/en/stable/reference/pip_install/
