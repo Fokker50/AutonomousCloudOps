@@ -1,5 +1,5 @@
 # AutonomousCloudOps
-This repository contains a collection of Python scripts for automating various tasks related to cloud operations. These scripts are designed to streamline processes, enhance efficiency, and promote best practices in cloud management.
+This repository contains a collection of Python scripts for automating various tasks related to AWS cloud operations. These scripts are designed to streamline processes, enhance efficiency, and promote best practices in cloud management.
 
 Scripts Includes
 - ec2_instance_state.py: This script checcks the state and status of ec2 instances.
